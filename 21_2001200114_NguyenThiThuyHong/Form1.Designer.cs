@@ -142,7 +142,6 @@
             this.chia.TabIndex = 9;
             this.chia.Text = "/";
             this.chia.UseVisualStyleBackColor = true;
-            this.chia.Click += new System.EventHandler(this.chia_Click);
             // 
             // errorProvider1
             // 
