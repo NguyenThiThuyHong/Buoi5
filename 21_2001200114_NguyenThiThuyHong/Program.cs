@@ -16,7 +16,7 @@ namespace _21_2001200114_NguyenThiThuyHong
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form4());
+            Application.Run(new Form3());
         }
     }
 }
